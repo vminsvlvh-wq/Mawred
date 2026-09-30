@@ -1,0 +1,726 @@
+[
+  {
+    "id": "sa-neom",
+    "nameAr": "نيوم",
+    "nameEn": "NEOM",
+    "sectorAr": "المشاريع الكبرى والتطوير الحضري",
+    "sectorEn": "Giga-projects & Urban Development",
+    "subsectorAr": "المدن الذكية والمستدامة",
+    "subsectorEn": "Smart & Sustainable Cities",
+    "descriptionAr": "مشروع سعودي عملاق يهدف لبناء منطقة تمتد عبر الحدود الشمالية الغربية للمملكة، مجهزة بتقنيات الذكاء الاصطناعي والطاقة النظيفة بنسبة 100%، وتضم مشاريع أيقونية مثل ذا لاين، أوكساجون، سندالة، وتروجينا.",
+    "descriptionEn": "A futuristic Saudi giga-project in northwestern Saudi Arabia, designed to operate 100% on renewable energy and integrate cutting-edge AI across key regions including The Line, Oxagon, Sindalah, and Trojena.",
+    "focusAreas": [
+      "الذكاء الاصطناعي",
+      "الطاقة المتجددة",
+      "الهيدروجين الأخضر",
+      "اللوجستيات المستقلة",
+      "الهندسة المعمارية البيئية",
+      "معالجة المياه الذكية"
+    ],
+    "keyTags": [
+      "نيوم",
+      "NEOM",
+      "ذا لاين",
+      "The Line",
+      "أوكساجون",
+      "الهيدروجين الأخضر",
+      "الاستدامة",
+      "الطاقة البديلة"
+    ],
+    "knowledgeGapsAddressed": [
+      "تشغيل وصيانة المحللات الكهربائية الكبرى للهيدروجين الأخضر",
+      "تقنيات التشييد ثلاثي الأبعاد فائق السرعة والمطابق للبيئة الجبلية",
+      "أنظمة النقل فائق السرعة المغناطيسي والذاتي"
+    ],
+    "strategicImportance": "المحرك الأساسي لرؤية السعودية 2030 لقطاعات المعيشة، المدن الذكية، والطاقة المتجددة واستقطاب الكفاءات العالمية المتقدمة لتوطينها محلياً."
+  },
+  {
+    "id": "sa-redsea",
+    "nameAr": "شركة البحر الأحمر الدولية",
+    "nameEn": "Red Sea Global",
+    "sectorAr": "المشاريع الكبرى والتطوير الحضري",
+    "sectorEn": "Giga-projects & Urban Development",
+    "subsectorAr": "السياحة المتجددة والفاخرة",
+    "subsectorEn": "Regenerative & Luxury Tourism",
+    "descriptionAr": "شركة تطوير عقاري مساهمة مقفلة مملوكة بالكامل لصندوق الاستثمارات العامة، تقود تطوير وجهتي البحر الأحمر وأمالا لتقديم تجربة سياحة فاخرة وصديقة للبيئة وحماية البيئة البحرية الساحلية والشعب المرجانية.",
+    "descriptionEn": "A closed joint-stock company wholly owned by the Public Investment Fund (PIF), spearheading the development of regenerative, luxury tourism destinations along the Red Sea coast, including The Red Sea and Amaala.",
+    "focusAreas": [
+      "السياحة المتجددة",
+      "حفظ الموائل البحرية",
+      "الحياد الكربوني",
+      "الهندسة البحرية المستدامة",
+      "شبكات الطاقة غير المتصلة (Off-grid power)"
+    ],
+    "keyTags": [
+      "البحر الأحمر الدولية",
+      "أمالا",
+      "السياحة المتجددة",
+      "حفظ البيئة",
+      "Red Sea Global",
+      "Amaala"
+    ],
+    "knowledgeGapsAddressed": [
+      "تصاميم الهياكل والمنتجعات العائمة المقاومة للملوحة البحرية العالية وتيارات المد",
+      "تشغيل أضخم شبكة طاقة متجددة معزولة بالكامل عن الشبكة الرئيسية",
+      "تقنيات زراعة الشعب المرجانية المسرعة لمواجهة التغير المناخي"
+    ],
+    "strategicImportance": "ترسيخ معايير جديدة للسياحة المتجددة عالمياً والمساهمة في تنويع الاقتصاد غير النفطي وحفظ الثروات البيئية الفريدة للمملكة."
+  },
+  {
+    "id": "sa-qiddiya",
+    "nameAr": "شركة القدية للاستثمار",
+    "nameEn": "Qiddiya Investment Company",
+    "sectorAr": "المشاريع الكبرى والتطوير الحضري",
+    "sectorEn": "Giga-projects & Urban Development",
+    "subsectorAr": "الترفيه والرياضة والثقافة",
+    "subsectorEn": "Entertainment, Sports & Culture",
+    "descriptionAr": "جهة تطوير عاصمة الترفيه والرياضة والفنون في المملكة العربية السعودية، تقع غرب الرياض وتستهدف بناء وجهات سياحية متكاملة تضم مدناً ترفيهية، حلبات سباق فورمولا، وملاعب جولف ومراكز ثقافية عالمية.",
+    "descriptionEn": "The developer behind Saudi Arabia's upcoming capital of entertainment, sports, and the arts, located west of Riyadh, offering multi-use zones including theme parks, F1 racetracks, and cultural venues.",
+    "focusAreas": [
+      "إدارة الحشود الضخمة",
+      "تقنيات الترفيه الغامر والواقع الممتد (XR)",
+      "هندسة الصوتيات والإنارة للمسارح المفتوحة",
+      "أمان وسلامة المدن الترفيهية"
+    ],
+    "keyTags": [
+      "القدية",
+      "Qiddiya",
+      "الترفيه",
+      "الرياضة",
+      "السياحة الثقافية",
+      "إدارة الحشود"
+    ],
+    "knowledgeGapsAddressed": [
+      "تشغيل وإدارة نظم السلامة والميكانيكا للألعاب الأفعوانية العملاقة والأرقام القياسية",
+      "تقنيات هندسة المسارح الصخرية الطبيعية والتحكم بالارتداد الصوتي",
+      "أنظمة محاكاة الحركة والواقع الافتراضي للقطاعات الترفيهية الضخمة"
+    ],
+    "strategicImportance": "تمكين الكوادر الوطنية في قطاعات الترفيه الحديثة والرياضة وإدارة الفعاليات الكبرى لجعل المملكة عاصمة سياحية ترفيهية رائدة."
+  },
+  {
+    "id": "sa-diriyah",
+    "nameAr": "شركة الدرعية",
+    "nameEn": "Diriyah Company",
+    "sectorAr": "المشاريع الكبرى والتطوير الحضري",
+    "sectorEn": "Giga-projects & Urban Development",
+    "subsectorAr": "التراث والثقافة والتطوير العقاري الأثري",
+    "subsectorEn": "Heritage, Culture & Historic Real Estate",
+    "descriptionAr": "شركة تطوير عقاري ثقافي تهدف لإحياء الدرعية التاريخية، مهد الدولة السعودية الأولى، وتحويلها إلى وجهة تراثية وثقافية عالمية تجمع بين الطراز المعماري النجدي والتقنيات العصرية المستدامة.",
+    "descriptionEn": "A heritage and culture-focused developer restoring Diriyah, the historic birthplace of the first Saudi state, into a global lifestyle destination blending traditional Najdi architecture with modern sustainability standards.",
+    "focusAreas": [
+      "العمارة الطينية النجدية",
+      "ترميم الآثار والمواقع التاريخية",
+      "السياحة الثقافية والتراثية",
+      "تطوير المتاحف والمعارض"
+    ],
+    "keyTags": [
+      "الدرعية",
+      "Diriyah",
+      "العمارة النجدية",
+      "ترميم الآثار",
+      "تراث",
+      "صندوق الاستثمارات العامة"
+    ],
+    "knowledgeGapsAddressed": [
+      "تقنيات خلط وتدعيم اللبن الطيني التقليدي بمواد حديثة لضمان استدامة الهياكل التاريخية",
+      "إدارة تدفقات الزوار في الأحياء الضيقة التراثية المحمية لدى اليونسكو (حي الطريف)",
+      "طرق عزل الرطوبة وحماية الأساسات الطينية دون التأثير على هويتها الأصلية"
+    ],
+    "strategicImportance": "صيانة الهوية الوطنية والتراث المعماري الأصيل للمملكة مع توطين التقنيات الهندسية الدقيقة للترميم التاريخي."
+  },
+  {
+    "id": "sa-roshn",
+    "nameAr": "روشن العقارية",
+    "nameEn": "ROSHN",
+    "sectorAr": "المشاريع الكبرى والتطوير الحضري",
+    "sectorEn": "Giga-projects & Urban Development",
+    "subsectorAr": "التطوير العقاري السكني المتكامل",
+    "subsectorEn": "Integrated Residential Development",
+    "descriptionAr": "شركة تطوير عقاري وطنية تابعة لصندوق الاستثمارات العامة، تعمل على تطوير أحياء سكنية متكاملة ومستدامة بمختلف مناطق المملكة، لرفع نسبة تملك المواطنين للمساكن ودعم جودة الحياة.",
+    "descriptionEn": "A national real estate developer owned by the Public Investment Fund (PIF), developing modern, integrated, and sustainable residential communities across Saudi Arabia to improve homeownership and quality of life.",
+    "focusAreas": [
+      "أنسنة المدن",
+      "تطوير الضواحي السكنية الذكية",
+      "تقنيات البناء الحديثة والجاهزة",
+      "سلاسل إمداد مواد التشييد المستدامة"
+    ],
+    "keyTags": [
+      "روشن",
+      "ROSHN",
+      "سديم",
+      "أنسنة المدن",
+      "جودة الحياة",
+      "تطوير سكني"
+    ],
+    "knowledgeGapsAddressed": [
+      "إدارة سلاسل التوريد لمواد البناء منخفضة الكربون على نطاق مدني واسع",
+      "خوارزميات التخطيط الحضري وتوزيع الموارد لتقليل المسافات البينية (مدينة الـ 15 دقيقة)",
+      "الدمج الذكي لأنظمة تصريف الأمطار والري البيئي في المناطق السكنية الممتدة"
+    ],
+    "strategicImportance": "تحقيق تطلعات جودة الحياة عبر توفير بيئة سكنية تجمع الطابع التراثي والخدمات الذكية، وتأهيل المهندسين السعوديين لإدارة مشاريع الإسكان المليونية."
+  },
+  {
+    "id": "sa-aramco",
+    "nameAr": "أرامكو السعودية",
+    "nameEn": "Saudi Aramco",
+    "sectorAr": "الطاقة والصناعة والتعدين",
+    "sectorEn": "Energy, Industry & Mining",
+    "subsectorAr": "النفط، الغاز، البتروكيماويات والتقنيات النظيفة",
+    "subsectorEn": "Oil, Gas, Petrochemicals & Clean Energy",
+    "descriptionAr": "شركة الطاقة والكيميائيات المتكاملة الرائدة عالمياً، تدير أكبر احتياطيات مؤكدة من النفط الخام وسوائل الغاز الطبيعي، وتقود الابتكار في تقنيات احتجاز الكربون، وإنتاج الهيدروجين، والتحول الرقمي الصناعي.",
+    "descriptionEn": "The world's leading integrated energy and chemicals enterprise, managing vast conventional crude oil reserves and gas networks, while pioneering digital industry transformation and carbon capture technologies.",
+    "focusAreas": [
+      "التنقيب والإنتاج",
+      "تكرير الكربوهيدرات والكيميائيات",
+      "استخلاص الكربون وتخزينه (CCUS)",
+      "حلول الثورة الصناعية الرابعة (4IR)",
+      "الأمن السيبراني الصناعي"
+    ],
+    "keyTags": [
+      "أرامكو",
+      "Aramco",
+      "الطاقة",
+      "احتجاز الكربون",
+      "البتروكيماويات",
+      "الثورة الصناعية الرابعة"
+    ],
+    "knowledgeGapsAddressed": [
+      "بروتوكولات التفريغ والشحن الأوتوماتيكي المعزز بالذكاء الاصطناعي في الموانئ البترولية الرقمية",
+      "تصميم وتشغيل منشآت احتجاز الكربون المباشر من الهواء بكفاءة طاقة منخفضة",
+      "أنظمة الصيانة التنبؤية المعتمدة على المستشعرات اللاسلكية الذاتية في الحقول البحرية"
+    ],
+    "strategicImportance": "الركيزة الكبرى والعمود الفقري للاقتصاد الوطني وأمن الطاقة العالمي، والمحرك الريادي في الأبحاث الصناعية وحلول التغير المناخي."
+  },
+  {
+    "id": "sa-sabic",
+    "nameAr": "سابك (الشركة السعودية للصناعات الأساسية)",
+    "nameEn": "SABIC",
+    "sectorAr": "الطاقة والصناعة والتعدين",
+    "sectorEn": "Energy, Industry & Mining",
+    "subsectorAr": "البتروكيماويات والصناعات الكيميائية المتطورة",
+    "subsectorEn": "Petrochemicals & Advanced Chemical Manufacturing",
+    "descriptionAr": "واحدة من أكبر الشركات الكيميائية في العالم، تصنع الكيماويات والمبلمرات والمغذيات الزراعية والمعادن، وتتميز بابتكار المواد المتطورة المستخدمة في صناعات الطيران، السيارات، والطاقة البديلة.",
+    "descriptionEn": "One of the world's global petrochemical leaders, manufacturing chemicals, polymers, agri-nutrients, and metals, driving product innovation in aerospace, automotive, and alternative energy materials.",
+    "focusAreas": [
+      "الكيميائيات المتخصصة",
+      "تطوير المبلمرات عالية الأداء",
+      "تكنولوجيا المغذيات الزراعية المستدامة",
+      "البتروكيماويات الخضراء والتدوير الدائري للبلاستيك"
+    ],
+    "keyTags": [
+      "سابك",
+      "SABIC",
+      "البتروكيماويات",
+      "كيميائيات متخصصة",
+      "البلاستيك الدائري",
+      "المبلمرات"
+    ],
+    "knowledgeGapsAddressed": [
+      "صناعة الراتنجات والمبلمرات المركبة المتوافقة مع طباعة الهياكل المعقدة ثلاثية الأبعاد",
+      "تقنيات نزع الهيدروجين والتحول الكيميائي عالي الكفاءة للغازات المصاحبة",
+      "عمليات التدوير الكيميائي المتطور للبلاستيك وإعادة استخلاص اللقيم الأساسي"
+    ],
+    "strategicImportance": "تقود التحول في مجال المواد المتقدمة وتحسين سلاسل توريد الأغذية والصناعات التحويلية بكفاءة استدامة دولية."
+  },
+  {
+    "id": "sa-maaden",
+    "nameAr": "معادن (شركة التعدين العربية السعودية)",
+    "nameEn": "Ma'aden",
+    "sectorAr": "الطاقة والصناعة والتعدين",
+    "sectorEn": "Energy, Industry & Mining",
+    "subsectorAr": "التعدين، الفوسفات، الألمنيوم، والمعادن النفيسة",
+    "subsectorEn": "Mining, Phosphates, Aluminum & Precious Metals",
+    "descriptionAr": "الشركة الرائدة في مجال التعدين في المملكة، وتمثل الركيزة الثالثة للصناعة السعودية بجانب النفط والبتروكيماويات، حيث تدير مجمعات صناعية عملاقة للألمنيوم والفوسفات ومناجم الذهب.",
+    "descriptionEn": "Saudi Arabia's multi-commodity mining champion and the third pillar of Saudi industry, operating world-class extraction and processing complexes for phosphates, aluminum, and gold.",
+    "focusAreas": [
+      "استخلاص المعادن الاستراتيجية",
+      "صناعة الأسمدة الفوسفاتية الدولية",
+      "صهر وتطوير سبائك الألمنيوم فائقة النقاء",
+      "تقنيات التعدين الصديقة للبيئة"
+    ],
+    "keyTags": [
+      "معادن",
+      "Ma'aden",
+      "التعدين",
+      "الألمنيوم",
+      "الفوسفات",
+      "المعادن الاستراتيجية"
+    ],
+    "knowledgeGapsAddressed": [
+      "تقنيات فصل واستخلاص العناصر النادرة الاستراتيجية (Rare Earth Elements) من الخامات المحلية",
+      "إدارة استهلاك المياه الكثيف في مناجم الذهب الصحراوية وإعادة تدوير السوائل بالكامل",
+      "أنظمة الصهر المتقدمة والتحكم الحراري الدقيق لسبائك الألمنيوم المخصصة لصناعات الفضاء"
+    ],
+    "strategicImportance": "بناء الركيزة الثالثة للاقتصاد الوطني عبر تمكين وتطوير الثروات المعدنية الهائلة للمملكة وتنمية المناطق النائية صناعياً."
+  },
+  {
+    "id": "sa-sec",
+    "nameAr": "الشركة السعودية للكهرباء",
+    "nameEn": "Saudi Electricity Company (SEC)",
+    "sectorAr": "الطاقة والصناعة والتعدين",
+    "sectorEn": "Energy, Industry & Mining",
+    "subsectorAr": "توليد ونقل وتوزيع الطاقة الكهربائية",
+    "subsectorEn": "Power Generation, Transmission & Distribution",
+    "descriptionAr": "المنتج الرئيسي والموزع الوحيد للكهرباء في المملكة العربية السعودية، وتدير أضخم شبكة نقل وتوزيع في منطقة الشرق الأوسط، وتعمل على دمج مشاريع الطاقة الشمسية وطاقة الرياح بالشبكة الوطنية.",
+    "descriptionEn": "The primary producer and sole distributor of electricity in Saudi Arabia, operating the largest transmission and distribution network in the Middle East and integrating solar and wind projects.",
+    "focusAreas": [
+      "الشبكات الذكية (Smart Grids)",
+      "دمج الطاقة المتجددة في الشبكة",
+      "خطوط النقل ذات الجهد الفائق والمستمر (HVDC)",
+      "العدادات والحلول الرقمية"
+    ],
+    "keyTags": [
+      "السعودية للكهرباء",
+      "SEC",
+      "الشبكات الذكية",
+      "الجهد الفائق",
+      "HVDC",
+      "العدادات الذكية"
+    ],
+    "knowledgeGapsAddressed": [
+      "خوارزميات الموازنة اللحظية للأحمال مع تذبذب إمدادات الخلايا الكهروضوئية الكبرى",
+      "صيانة خطوط نقل الجهد الفائق المستمر وتجنب الفقد الحراري بالأجواء الصحراوية القاسية",
+      "أنظمة تخزين الطاقة بالبطاريات الضخمة (BESS) وإدارتها في ساعات الذروة الصيفية"
+    ],
+    "strategicImportance": "شريان الطاقة الرئيسي للتنمية العمرانية والصناعية، والمنفذ التقني لربط وإتاحة طاقة المستقبل النظيفة للجميع."
+  },
+  {
+    "id": "sa-nwc",
+    "nameAr": "شركة المياه الوطنية",
+    "nameEn": "National Water Company (NWC)",
+    "sectorAr": "الطاقة والصناعة والتعدين",
+    "sectorEn": "Energy, Industry & Mining",
+    "subsectorAr": "توزيع المياه ومعالجة الصرف الصحي والمحافظة على الموارد",
+    "subsectorEn": "Water Distribution, Wastewater Treatment & Resource Conservation",
+    "descriptionAr": "شركة مساهمة سعودية تقدم خدمات المياه والصرف الصحي وفقاً لأحدث المعايير العالمية، وتدير مشاريع البنية التحتية لتجميع ونقل وتوزيع المياه العذبة والمعالجة في جميع أنحاء المملكة.",
+    "descriptionEn": "A Saudi joint-stock company providing high-quality water and sanitation services, implementing massive infrastructure projects for water distribution and tertiary treatment across the Kingdom.",
+    "focusAreas": [
+      "معالجة الصرف الصحي الثلاثي والرباعي",
+      "إدارة شبكات المياه الرقمية والحد من الفاقد",
+      "تخزين المياه الجيولوجي الاستراتيجي",
+      "استدامة المياه الجوفية"
+    ],
+    "keyTags": [
+      "المياه الوطنية",
+      "NWC",
+      "تحلية المياه",
+      "الصرف الصحي الثلاثي",
+      "ترشيد المياه",
+      "شبكات المياه الذكية"
+    ],
+    "knowledgeGapsAddressed": [
+      "تقنيات تصفية المياه الرباعية المتطورة لإزالة الميكروبات الصناعية والدقيقة لإعادة الاستخدام الزراعي والصناعي",
+      "أنظمة الرصد الصوتي والذكاء الاصطناعي لتتبع التسريبات الخفية في خطوط الأنابيب تحت المدن",
+      "إدارة عمليات تخزين المياه العذبة الفائضة في الطبقات الصخرية الجيولوجية العميقة واستردادها بدون تلوث"
+    ],
+    "strategicImportance": "حجر الأساس للأمن المائي الوطني والتنمية البيئية المستدامة في أحد أكثر أقاليم العالم شحاً في الموارد المائية العذبة."
+  },
+  {
+    "id": "sa-stc",
+    "nameAr": "مجموعة إس تي سي",
+    "nameEn": "stc Group",
+    "sectorAr": "الاتصالات والتقنية والذكاء الاصطناعي",
+    "sectorEn": "Telecom, Tech & AI",
+    "subsectorAr": "خدمات الاتصالات الرقمية والحلول السحابية وأمن المعلومات",
+    "subsectorEn": "Digital Telecommunications, Cloud Solutions & Cybersecurity",
+    "descriptionAr": "الممكن الرقمي الرائد وأكبر شركة اتصالات في الشرق الأوسط وأفريقيا، تقدم البنية التحتية للاتصالات، حلول الحوسبة السحابية، الجيل الخامس، المدفوعات الرقمية عبر stc pay، والأمن السيبراني.",
+    "descriptionEn": "The leading digital enabler and the largest telecom operator in the Middle East and Africa, providing state-of-the-art 5G networks, cloud computing, fintech solutions, and enterprise services.",
+    "focusAreas": [
+      "شبكات الجيل الخامس المتقدم (5G-Advanced)",
+      "الحوسبة السحابية للشركات والأفراد",
+      "التقنيات المالية والمدفوعات الإلكترونية",
+      "إنترنت الأشياء (IoT) والمدن المترابطة"
+    ],
+    "keyTags": [
+      "stc",
+      "إس تي سي",
+      "الحوسبة السحابية",
+      "fintech",
+      "الجيل الخامس",
+      "إنترنت الأشياء",
+      "stc pay"
+    ],
+    "knowledgeGapsAddressed": [
+      "هندسة البنى التحتية الافتراضية السحابية الموزعة والمنخفضة زمن الاستجابة للحوسبة الطرفية",
+      "خوارزميات إدارة حركة مرور البيانات للأجهزة والآلات المتصلة فجائياً في قطاعات الطاقة واللوجستيات",
+      "توطين تقنيات تشفير حزم البيانات العسكرية والأمنية للجيل الخامس الحساس لمواقع البنية التحتية"
+    ],
+    "strategicImportance": "المشغل والداعم الرئيسي لخطط التحول الرقمي والتقنيات المالية بالمملكة، وصاحب الشبكة الرقمية الأوسع جغرافياً."
+  },
+  {
+    "id": "sa-sdaia",
+    "nameAr": "الهيئة السعودية للبيانات والذكاء الاصطناعي (سدايا)",
+    "nameEn": "SDAIA",
+    "sectorAr": "الاتصالات والتقنية والذكاء الاصطناعي",
+    "sectorEn": "Telecom, Tech & AI",
+    "subsectorAr": "تنظيم وحوكمة البيانات الوطنية والذكاء الاصطناعي والحلول الحكومية",
+    "subsectorEn": "Data Governance, Artificial Intelligence & National Digital Solutions",
+    "descriptionAr": "الهيئة التنظيمية والتشغيلية الوطنية المسؤولة عن قطاع البيانات والذكاء الاصطناعي في المملكة، وتطوير البنية التحتية السحابية الحكومية (سحابة ديم) وتطبيقات حكومية بارزة مثل توكلنا وصحتي ونموذج اللغة علام.",
+    "descriptionEn": "The national authority responsible for data and AI regulation, operations, and development in Saudi Arabia, building the government's cloud (Deem), the Tawakkalna app, and Saudi Arabia's flagship LLM (Allam).",
+    "focusAreas": [
+      "أبحاث ونماذج الذكاء الاصطناعي التوليدي",
+      "حوكمة وحماية البيانات الشخصية والأمن السيبراني الوطني",
+      "الحوسبة السحابية السيادية الحكومية",
+      "تحليلات المدن الذكية المتقدمة ورصد الحشود"
+    ],
+    "keyTags": [
+      "سدايا",
+      "SDAIA",
+      "ديم",
+      "علام",
+      "الذكاء الاصطناعي التوليدي",
+      "حوكمة البيانات",
+      "توكلنا"
+    ],
+    "knowledgeGapsAddressed": [
+      "بناء وتدريب النماذج اللغوية الكبيرة المتخصصة بالثقافة والتعبيرات السعودية والتقنية التخصصية",
+      "بنية وهيكلة السحب الحكومية المعزولة مادياً ومكافحة ثغرات يوم الصفر الفيدرالية",
+      "معالجة الرؤية الحاسوبية المتقدمة لشبكات الطرق لإدارة وتحسين الازدحام المروري بدون انتهاك الخصوصية"
+    ],
+    "strategicImportance": "العقل الرقمي للمملكة، والمسؤول الأول عن قيادة الثورة المعرفية القائمة على البيانات واستقلالية السيادة الذكية التقنية للوطن."
+  },
+  {
+    "id": "sa-elm",
+    "nameAr": "شركة علم",
+    "nameEn": "Elm",
+    "sectorAr": "الاتصالات والتقنية والذكاء الاصطناعي",
+    "sectorEn": "Telecom, Tech & AI",
+    "subsectorAr": "الحلول الرقمية وبوابات الأعمال والخدمات السحابية الموثقة",
+    "subsectorEn": "Digital Solutions, Business Portals & Secure Cloud Services",
+    "descriptionAr": "شركة رائدة في تقديم الحلول الرقمية، تشغيل المنصات الحكومية والأمنية، وإسناد الخدمات للمؤسسات العامة والخاصة، وبناء منصات رائدة ومبتكرة مثل أبشر، تم، مقيم، وبلدي.",
+    "descriptionEn": "A premier digital solutions provider developing and operating major public and enterprise platforms in Saudi Arabia, powers systems like Absher, Tamm, Muqeem, and Balady.",
+    "focusAreas": [
+      "الخدمات الإلكترونية الآمنة والموثقة",
+      "إسناد وتكامل الأنظمة الرقمية الكبرى",
+      "التحقق من الهوية والأمن السيبراني للبوابات",
+      "حلول النقل اللوجستي الذكي"
+    ],
+    "keyTags": [
+      "علم",
+      "Elm",
+      "أبشر",
+      "الخدمات الرقمية",
+      "منصات حكومية",
+      "التحقق من الهوية"
+    ],
+    "knowledgeGapsAddressed": [
+      "بناء البنى التحتية البرمجية فائقة التحمل والأداء والتي تخدم ملايين المعاملات المتزامنة يومياً",
+      "تقنيات الربط الموحد (API Integrations) وتأمين ثغرات الاختراق للطرف الثالث",
+      "تصميم واجهات تجربة مستخدم (UX/UI) سهلة الوصول وتدعم الفئات العمرية المتنوعة وأصحاب الهمم"
+    ],
+    "strategicImportance": "المحرك التقني الأبرز لتيسير الإجراءات والخدمات الحكومية وموثوقية التعاملات الرقمية في المملكة."
+  },
+  {
+    "id": "sa-sccc",
+    "nameAr": "الشركة السعودية للحوسبة السحابية",
+    "nameEn": "SCCC Alibaba Cloud",
+    "sectorAr": "الاتصالات والتقنية والذكاء الاصطناعي",
+    "sectorEn": "Telecom, Tech & AI",
+    "subsectorAr": "بنية تحتية وخدمات حوسبة سحابية محلية",
+    "subsectorEn": "Local Cloud Infrastructure & Computing Services",
+    "descriptionAr": "مشروع مشترك بقيادة مجموعة stc وبالتعاون مع علي بابا كلاود والمؤسسات الحكومية، يهدف إلى توفير بنية تحتية سحابية محلية عالمية المستوى ومستقرة ومبنية على أرض الوطن لحماية السيادة الرقمية السعودية.",
+    "descriptionEn": "A joint venture between stc Group and Alibaba Cloud, delivering enterprise-grade, localized cloud hosting and computing infrastructure within Saudi Arabia to support data sovereignty.",
+    "focusAreas": [
+      "بنية تحتية كخدمة (IaaS)",
+      "قواعد البيانات السحابية الآمنة",
+      "استضافة مراكز البيانات وتطبيقات الإنترنت",
+      "بناء السحابات الهجينة والخاصة"
+    ],
+    "keyTags": [
+      "SCCC",
+      "الحوسبة السحابية",
+      "علي بابا كلاود",
+      "مراكز البيانات",
+      "استضافة البيانات",
+      "السيادة الرقمية"
+    ],
+    "knowledgeGapsAddressed": [
+      "إدارة البنى التحتية المعقدة الافتراضية ومجموعات حاويات دكر وكوبيرنيتس على مستوى الخوادم المادية",
+      "أنظمة النسخ الاحتياطي التلقائي والتعافي من الكوارث في مراكز بيانات متباعدة جغرافياً ومحمية بالكامل",
+      "تصميم وبناء أنظمة خوادم مبردة بسوائل مبتكرة تلائم البيئات المناخية شديدة الحرارة لتقليل التكلفة"
+    ],
+    "strategicImportance": "تأمين الاستقلال التقني وحفظ وتوطين بيانات المملكة للقطاعات الحكومية والمؤسسات الكبرى محلياً."
+  },
+  {
+    "id": "sa-snb",
+    "nameAr": "البنك الأهلي السعودي",
+    "nameEn": "Saudi National Bank (SNB)",
+    "sectorAr": "المالية والاستثمار والبنوك",
+    "sectorEn": "Finance, Investment & Banking",
+    "subsectorAr": "الخدمات المصرفية للأفراد والشركات والتمويل المؤسسي",
+    "subsectorEn": "Retail Banking, Corporate Banking & Institutional Finance",
+    "descriptionAr": "أكبر مؤسسة مالية وبنكية في المملكة العربية السعودية، نشأ من دمج البنك الأهلي التجاري ومجموعة سامبا المالية، ويقود الخدمات المصرفية وتمويل المشاريع التنموية والشركات الكبرى.",
+    "descriptionEn": "The largest financial institution in Saudi Arabia, formed by the merger of NCB and Samba, leading corporate, retail, investment, and project development financing for Saudi Arabia's major projects.",
+    "focusAreas": [
+      "التمويل الهيكلي وتمويل المشاريع العملاقة",
+      "التحول المصرفي الرقمي والخدمات بدون فروع",
+      "التقنيات المالية والتمويل الإسلامي",
+      "إدارة الأصول والصناديق الاستثمارية"
+    ],
+    "keyTags": [
+      "البنك الأهلي السعودي",
+      "SNB",
+      "تمويل مشاريع",
+      "مؤسسة مالية",
+      "البنوك السعودية",
+      "الأهلي"
+    ],
+    "knowledgeGapsAddressed": [
+      "تقييم المخاطر وتصميم محافظ التمويل المركبة للمشاريع طويلة الأجل (أكثر من ٢٠ سنة)",
+      "تطوير وتأمين معايير العملات الرقمية المستقرة وعمليات الدفع والتسويات الدولية الفورية للشركات",
+      "نماذج الامتثال ومكافحة غسيل الأموال المدعومة بالذكاء الاصطناعي وبدقة رصد عالية"
+    ],
+    "strategicImportance": "الشريك التمويلي الرئيسي والأضخم لكافة قطاعات ومشاريع رؤية السعودية ٢٠٣٠ وتطوير القطاع الخاص."
+  },
+  {
+    "id": "sa-alrajhi",
+    "nameAr": "مصرف الراجحي",
+    "nameEn": "Al Rajhi Bank",
+    "sectorAr": "المالية والاستثمار والبنوك",
+    "sectorEn": "Finance, Investment & Banking",
+    "subsectorAr": "المصرفية الإسلامية والخدمات الرقمية للأفراد",
+    "subsectorEn": "Islamic Banking & Retail Digital Services",
+    "descriptionAr": "أحد أكبر المصارف الإسلامية في العالم، يمتلك أوسع قاعدة عملاء للأفراد وشبكة فروع وقنوات رقمية متطورة، ويعد رائداً عالمياً في ابتكار المعاملات المتوافقة مع الشريعة الإسلامية رقمياً.",
+    "descriptionEn": "One of the largest Islamic banks globally, possessing a massive retail customer base and leading the market in digital banking transactions compliant with Sharia principles.",
+    "focusAreas": [
+      "المصرفية الإسلامية المتوافقة مع الشريعة",
+      "الخدمات المصرفية عبر الهاتف المحمول والخدمات الذاتية",
+      "التمويل العقاري والسكني للأفراد",
+      "تمويل المنشآت الصغيرة والمتوسطة"
+    ],
+    "keyTags": [
+      "الراجحي",
+      "مصرف الراجحي",
+      "Al Rajhi",
+      "المصرفية الإسلامية",
+      "تمويل الأفراد",
+      "التطبيقات الرقمية"
+    ],
+    "knowledgeGapsAddressed": [
+      "تطبيق وتدقيق العقود التمويلية الرقمية الذكية المتوافقة بالكامل مع الشريعة الإسلامية آلياً",
+      "إدارة وتأمين بيانات ومعاملات ملايين العملاء عبر الهاتف بشكل متزامن وبثغرات صفرية",
+      "نماذج التقييم الائتماني الذكي للأفراد والمنشآت الصغيرة بالاعتماد على البيانات البديلة وسلوك الدفع"
+    ],
+    "strategicImportance": "الممكن التمويلي الرئيسي والريادي للمجتمع السعودي والمنشآت المتوسطة والصغيرة في شتى ربوع الوطن."
+  },
+  {
+    "id": "sa-tadawul",
+    "nameAr": "مجموعة تداول السعودية",
+    "nameEn": "Saudi Tadawul Group",
+    "sectorAr": "المالية والاستثمار والبنوك",
+    "sectorEn": "Finance, Investment & Banking",
+    "subsectorAr": "الأسواق المالية والتقاص والحفظ والتداول الرقمي",
+    "subsectorEn": "Financial Markets, Clearing, Depository & Digital Trading",
+    "descriptionAr": "الشركة القابضة التي تدير وتطور السوق المالية السعودية (تداول) وتضم تحت مظلتها أربع شركات تابعة متخصصة بالتداول، التقاص (واميض، مقاصة)، مركز الإيداع، وحلول البنية التحتية التقنية للأسواق.",
+    "descriptionEn": "The parent company overseeing the Saudi Exchange (Tadawul) and subsidiaries specialized in securities trading, clearing (Muqassa), depository (Edaa), and financial tech innovations (Wamid).",
+    "focusAreas": [
+      "أنظمة التداول والتقاص والمطابقة الفورية",
+      "حوكمة الشركات والإفصاح والشفافية",
+      "المنتجات المالية المركبة والمشتقات",
+      "مؤشرات الاستدامة البيئية والاجتماعية والحوكمة (ESG)"
+    ],
+    "keyTags": [
+      "تداول",
+      "Tadawul",
+      "الأسهم السعودية",
+      "السوق المالي",
+      "واميض",
+      "مقاصة",
+      "إيداع"
+    ],
+    "knowledgeGapsAddressed": [
+      "بناء وصيانة محركات التداول عالية السرعة فائقة المرونة ضد تقلبات العرض والطلب المتطرفة",
+      "تطبيق هندسة ومخاطر التقاص للضمانات متعددة الفئات والتقييم اللحظي لمخاطر السوق لدى الأعضاء",
+      "آليات دمج وربط الأسواق المالية الإقليمية والدولية وتدفقات السيولة الخارجية للمؤسسات السيادية"
+    ],
+    "strategicImportance": "المرآة الاستثمارية الحقيقية للمملكة والبوابة الاستثمارية المفضلة لرأس المال الأجنبي والمحلي لتمويل نمو القطاعات."
+  },
+  {
+    "id": "sa-riyadhair",
+    "nameAr": "طيران الرياض",
+    "nameEn": "Riyadh Air",
+    "sectorAr": "النقل واللوجستيات والسياحة",
+    "sectorEn": "Transport, Logistics & Tourism",
+    "subsectorAr": "الطيران المدني والناقل الوطني الرقمي المستقبلي",
+    "subsectorEn": "Commercial Aviation & Digital Legacy Carrier",
+    "descriptionAr": "الناقل الجوي الوطني الجديد للمملكة، ومملوك بالكامل لصندوق الاستثمارات العامة، يهدف إلى ربط العاصمة الرياض بأكثر من 100 وجهة عالمية معتمداً على أحدث الأساطيل والتقنيات الرقمية والبيئية المتطورة.",
+    "descriptionEn": "A world-class digital-first national airline wholly owned by PIF, leveraging cutting-edge aviation and environmental technologies to connect Riyadh to over 100 destinations globally.",
+    "focusAreas": [
+      "الطيران الرقمي والذكاء الاصطناعي في خدمات الضيافة",
+      "إدارة العمليات الجوية الذكية",
+      "حلول وقود الطيران المستدام (SAF)",
+      "إدارة سلاسل إمداد قطع وأساطيل الطائرات"
+    ],
+    "keyTags": [
+      "طيران الرياض",
+      "Riyadh Air",
+      "الناقل الوطني",
+      "الطيران المستدام",
+      "صندوق الاستثمارات العامة",
+      "مطار الملك سلمان"
+    ],
+    "knowledgeGapsAddressed": [
+      "نماذج الصيانة التنبؤية المتكاملة لمحركات الطائرات الحديثة لتقليل فترات الانتظار على الأرض",
+      "خوارزميات تسعير وحجز المقاعد الذكية الديناميكية المعتمدة على السلوك الفوري للمسافرين",
+      "بروتوكولات دمج وإدارة وقود الطيران الصديق للبيئة (SAF) في مسارات الرحلات الطويلة وتقليل البصمة الكربونية"
+    ],
+    "strategicImportance": "جعل العاصمة الرياض بوابة عالمية للسياحة والتجارة اللوجستية، ومضاعفة الأثر الاقتصادي لقطاع الطيران في الدخل القومي."
+  },
+  {
+    "id": "sa-sar",
+    "nameAr": "الشركة السعودية للخطوط الحديدية (سار)",
+    "nameEn": "Saudi Arabia Railways (SAR)",
+    "sectorAr": "النقل واللوجستيات والسياحة",
+    "sectorEn": "Transport, Logistics & Tourism",
+    "subsectorAr": "نقل الركاب والشحن بالقطارات والسكك الحديدية المتقدمة",
+    "subsectorEn": "Rail Transportation, Freight & Advanced Railway Networks",
+    "descriptionAr": "الشركة المالكة والمشغلة لكافة شبكات الخطوط الحديدية بالمملكة، وتدير قطار الحرمين السريع، قطار الشمال والشرق، وأكبر شبكة شحن ميكانيكية لخدمة قطاعات التعدين والصناعة البترولية.",
+    "descriptionEn": "The national owner and operator of all railway networks in Saudi Arabia, managing the Haramain High-Speed Rail, Northern and Eastern railways, and immense heavy freight systems.",
+    "focusAreas": [
+      "القطارات فائقة السرعة الكهربائية",
+      "الشحن الثقيل للمعادن والمواد الكيميائية",
+      "سلامة ومراقبة السكك الحديدية بالذكاء الاصطناعي",
+      "أنظمة التحكم الرقمي بالقطارات (ETCS)"
+    ],
+    "keyTags": [
+      "سار",
+      "SAR",
+      "قطار الحرمين",
+      "الخطوط الحديدية",
+      "نقل المعادن",
+      "القطار السريع"
+    ],
+    "knowledgeGapsAddressed": [
+      "صيانة السكك الحديدية وتأمين القطارات السريعة ضد زحف الرمال والعواصف الغبارية والأحمال الحرارية العالية",
+      "بروتوكولات تشغيل وإشارات نظام التحكم بالقطارات الأوروبي (ETCS L2) دون توقف أو تداخل",
+      "إدارة قاطرات الشحن الثقيل جداً (أكثر من ١٥ ألف طن للشحنة) وتوزيع قوى الكبح الميكانيكية بسلامة"
+    ],
+    "strategicImportance": "الشريان اللوجستي الصديق للبيئة لربط المدن السعودية وتيسير حركة الحشود الدينية ونقل البضائع والمستكشفات التعدينية."
+  },
+  {
+    "id": "sa-bahri",
+    "nameAr": "البحري (الشركة الوطنية السعودية للنقل البحري)",
+    "nameEn": "Bahri",
+    "sectorAr": "النقل واللوجستيات والسياحة",
+    "sectorEn": "Transport, Logistics & Tourism",
+    "subsectorAr": "شحن بحري، شحنات النفط الخام، الكيميائيات، والبضائع العامة",
+    "subsectorEn": "Maritime Transport, Oil & Chemical Shipping, Logistics",
+    "descriptionAr": "الشركة الرائدة عالمياً في قطاع النقل والخدمات اللوجستية البحرية وتعد أكبر مالك ومُشغّل لناقلات النفط العملاقة (VLCC) في العالم، وتدير أساطيل لنقل المواد الكيميائية والغاز والبضائع الجافة.",
+    "descriptionEn": "A global maritime and logistics leader and the world's largest owner and operator of Very Large Crude Carriers (VLCCs), delivering energy and chemicals worldwide.",
+    "focusAreas": [
+      "عمليات الشحن البحري العملاق والنفط",
+      "الخدمات اللوجستية وتكامل الموانئ الدولية",
+      "الاستدامة وتقليل الانبعاثات البحرية",
+      "السلامة البحرية والأتمتة الرقمية للسفن"
+    ],
+    "keyTags": [
+      "البحري",
+      "Bahri",
+      "ناقلات النفط",
+      "VLCC",
+      "النقل البحري",
+      "اللوجستيات الدولية",
+      "موانئ"
+    ],
+    "knowledgeGapsAddressed": [
+      "خوارزميات تحسين واستهلاك الوقود للمحركات البحرية الضخمة بالاعتماد على التيارات المائية والرياح",
+      "بروتوكولات إدارة الأمان ومكافحة القرصنة والمخاطر الجيوسياسية في المعابر البحرية الدولية الحساسة",
+      "التخطيط الرقمي المتقدم لتفريغ ومطابقة الناقلات البتروكيميائية لتجنب أي تلوث بيئي أو تداخل للمواد"
+    ],
+    "strategicImportance": "حارس الصادرات البترولية والصناعية الكبرى للمملكة، ومحور السيادة البحرية للتجارة اللوجستية الوطنية عالمياً."
+  },
+  {
+    "id": "sa-kfshrc",
+    "nameAr": "مستشفى الملك فيصل التخصصي ومركز الأبحاث",
+    "nameEn": "King Faisal Specialist Hospital & Research Centre",
+    "sectorAr": "الصحة والأبحاث الحيوية",
+    "sectorEn": "Health & Biotechnology",
+    "subsectorAr": "الرعاية الصحية التخصصية والطب الدقيق والأبحاث الحيوية الجينية",
+    "subsectorEn": "Specialized Healthcare, Precision Medicine & Genomic Research",
+    "descriptionAr": "أبرز مركز طبي تخصصي أكاديمي وبحثي في الشرق الأوسط، يركز على تقديم الرعاية الطبية المتقدمة للأمراض المستعصية (الأورام، زراعة الأعضاء، القلب) وريادة أبحاث الجينوم البشري والطب الشخصي والدقيق.",
+    "descriptionEn": "The premier academic medical center in the Middle East, leading complex care (oncology, organ transplant, cardiology) and pioneering genomics, precision medicine, and clinical research.",
+    "focusAreas": [
+      "الطب الدقيق والجينوم (Genomics)",
+      "أبحاث الخلايا الجذعية والعلاجات الخلوية",
+      "زراعة الأعضاء وجراحة الروبوت المتقدمة",
+      "أبحاث السرطان واستهداف الأورام جينياً"
+    ],
+    "keyTags": [
+      "التخصصي",
+      "KFSH&RC",
+      "الجينوم السعودي",
+      "زراعة الأعضاء",
+      "الطب الدقيق",
+      "أبحاث السرطان"
+    ],
+    "knowledgeGapsAddressed": [
+      "تحليل بيانات الجينوم البشري المعقدة وربط التغيرات الوراثية بالأمراض النادرة في المجتمع العربي",
+      "تشغيل ومعايرة المسرعات النووية السيكلوترونية لإنتاج النظائر الطبية المشعة وتتبع الأورام",
+      "بروتوكولات زراعة النخاع العظمي للأطفال من متبرعين نصف متطابقين وطرق الحد من الرفض المناعي"
+    ],
+    "strategicImportance": "المصدر الأول للسيادة الصحية والبحثية في مكافحة الأمراض والابتكار الحيوي الجيني لخدمة الكوادر الطبية الوطنية."
+  },
+  {
+    "id": "sa-kaust",
+    "nameAr": "جامعة الملك عبدالله للعلوم والتقنية (كاوست)",
+    "nameEn": "KAUST",
+    "sectorAr": "التعليم والتطوير وبناء الكفاءات",
+    "sectorEn": "Education & Human Capital",
+    "subsectorAr": "أبحاث الدراسات العليا المتقدمة والابتكار التقني",
+    "subsectorEn": "Graduate Studies, Advanced Scientific Research & Deep Tech",
+    "descriptionAr": "جامعة أبحاث للدراسات العليا دولية ممولة بالكامل من الدولة، تقع في ثول على البحر الأحمر، وتستهدف التقارب بين العلوم والتقنية لإيجاد حلول للتحديات العالمية الكبرى في مجالات الغذاء، الماء، الطاقة، والبيئة.",
+    "descriptionEn": "A world-class graduate research university located on the Red Sea, dedicated to advancing science and technology with global impact in water, food, energy, and digital fields.",
+    "focusAreas": [
+      "أبحاث الطاقة والمواد النانوية",
+      "هندسة المياه والتحلية والزراعة الصحراوية",
+      "العلوم الحيوية والتقنيات البيئية",
+      "الحوسبة الفائقة والذكاء الاصطناعي (Supercomputing)"
+    ],
+    "keyTags": [
+      "كاوست",
+      "KAUST",
+      "أبحاث علمية",
+      "نانو تكنولوجي",
+      "التحلية المستدامة",
+      "شاهين",
+      "دراسات عليا"
+    ],
+    "knowledgeGapsAddressed": [
+      "برمجيات وحسابات الخوارزميات الموزعة على الحاسوب الفائق الوطني (شاهين Shahheen)",
+      "تصميم مرشحات نانوية متطورة لإزالة الأملاح وتوفير طاقة تحلية مياه البحر بنسب غير مسبوقة",
+      "الهندسة الجينية للنباتات والمحاصيل الزراعية لتمكين نموها في المياه شديدة الملوحة والبيئات الصحراوية"
+    ],
+    "strategicImportance": "المصنع الأكاديمي والابتكاري لأبرز الأفكار والتقنيات والمخترعات التي تمهد لمنتجات وشركات الاقتصاد المعرفي المستقبلية بالمملكة."
+  },
+  {
+    "id": "sa-pif",
+    "nameAr": "صندوق الاستثمارات العامة",
+    "nameEn": "Public Investment Fund (PIF)",
+    "sectorAr": "المالية والاستثمار والبنوك",
+    "sectorEn": "Finance, Investment & Banking",
+    "subsectorAr": "الاستثمار السيادي وتنمية وتوطين القطاعات المستقبلية",
+    "subsectorEn": "Sovereign Wealth & Strategic Industry Development",
+    "descriptionAr": "المحرك الأساسي للتحول الاقتصادي في المملكة العربية السعودية، وهو أحد أكبر صناديق الثروة السيادية في العالم، ويقود مبادرات تأسيس وإطلاق قطاعات واعدة وبناء شراكات دولية كبرى لتعظيم الأثر الوطني.",
+    "descriptionEn": "The primary engine of economic transformation in Saudi Arabia and one of the world's largest sovereign wealth funds, steering the creation of new strategic sectors and projects.",
+    "focusAreas": [
+      "الاستثمار الدولي المباشر والاستراتيجي",
+      "تأسيس الشركات وتطوير المشاريع العملاقة",
+      "إعادة تدوير رأس المال في القطاعات المحلية الناشئة",
+      "تنمية ونقل التقنيات الحساسة للداخل"
+    ],
+    "keyTags": [
+      "صندوق الاستثمارات العامة",
+      "PIF",
+      "الاستثمار السيادي",
+      "التحول الاقتصادي",
+      "رؤية 2030",
+      "مشاريع كبرى"
+    ],
+    "knowledgeGapsAddressed": [
+      "هيكلة صفقات الاستحواذ الدولية ونقل تملك الملكية الفكرية التقنية إلى الأراضي السعودية",
+      "نماذج تقييم الجدوى الاقتصادية للمشاريع الابتكارية التي لا تمتلك بيانات تاريخية سابقة",
+      "حوكمة وإدارة مجالس الإشراف للشركات التابعة المتعددة لضمان الاندماج وتوطين الخبرات التنفيذية"
+    ],
+    "strategicImportance": "القوة المالية والاستثمارية المحورية لتحقيق رؤية المملكة ٢٠٣٠ وتوطين سلاسل القيمة المعرفية والصناعية الكبرى."
+  }
+]

@@ -1,0 +1,6 @@
+{
+  "name": "Mawred | مورد",
+  "description": "منصة ذكية لتوطين المعرفة الضمنية في المشاريع السعودية الكبرى، تربط الخبرات العالمية بالكوادر الوطنية.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
